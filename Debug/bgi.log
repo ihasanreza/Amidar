@@ -1,0 +1,17 @@
+﻿Build started 9/19/2017 9:15:20 AM.
+     1>Project "D:\Hasan Reza\Studies\NED\FE\Semester-II\OOP\Semester Project\Amidar\bgi.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Amidar.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         bgi.vcxproj -> D:\Hasan Reza\Studies\NED\FE\Semester-II\OOP\Semester Project\Amidar\Debug\Amidar.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Amidar.unsuccessfulbuild".
+         Touching "Debug\Amidar.lastbuildstate".
+     1>Done Building Project "D:\Hasan Reza\Studies\NED\FE\Semester-II\OOP\Semester Project\Amidar\bgi.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
